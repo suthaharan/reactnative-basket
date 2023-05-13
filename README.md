@@ -26,4 +26,5 @@ https://www.npmjs.com/package/react-native-vector-icons (follow the steps relate
 https://reactnative.dev/docs/colors
 
 
- 
+* Sample output
+![Android layout](sample.jpg)  
