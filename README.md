@@ -16,3 +16,5 @@ https://reactnative.dev/docs/view
 * React Native flex
 https://reactnative.dev/docs/flexbox
 
+* React native vector icons setup
+https://www.npmjs.com/package/react-native-vector-icons (follow the steps related to modifying the gradle file for vector icons)
